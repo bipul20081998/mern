@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Content</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Glory&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="main-container">
+            <div class="head-container">
+                
+            </div>
+            <div class="image-container">
+                <img href="" alt="...">
+            </div>
+            <div class="content-container">
+                <span class="span1">Bipul Kumar</span>
+                
+                <span class="span2">90</span>
+                <span class="span3">Follow</span>
+            </div>
+            
+            <div class="description-container">
+                <table>
+                    <tr>
+                        <th>PENS</th>
+                        <th>PROJECTS</th>
+                        <th>POSTS</th>
+                    </tr>
+                    <tr>
+                        <td>90</td>
+                        <td>0</td>
+                        <td>0</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="skill-container">
+                <p>SKILLS &lt/></p>
+                <p>HTML5</p>
+                <p>CSS3</p>
+                <p>JAVASCRIPT</p>
+            </div>
+        </div>
+    </body>
+</html>
