@@ -1,0 +1,87 @@
+body{
+    background-color:rgb(34, 34, 34);
+    display: flex;
+    justify-content: center;
+    font-family: 'Glory', sans-serif;
+}
+.main-container{
+
+    height: 600px;
+    width: 400px;
+    
+    background-color: #0e0d0d;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+
+.head-container{
+    background-color: rgb(226, 43, 67);
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.image-container{
+    margin-top: -30px;
+    display:flex;
+    justify-content: space-around;
+}
+div >img{
+    border: 1px solid white;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    background-color: antiquewhite;
+}
+
+.content-container{
+    text-align: center;
+    padding-top: 10px;
+}
+
+span
+{
+    font-weight: bolder;
+    color: whitesmoke;
+    display: block;
+}
+.span1{
+    font-size: 30px;
+}
+.span2{
+    font-size: 25px;
+}
+.span3{
+    padding: 10px;
+}
+
+.description-container{
+    color: whitesmoke;
+    text-emphasis: none;
+}
+.col-head{
+    column-count: 3;
+    column-gap: 40px;
+    color: rgb(155, 32, 11);
+    font-weight: bolder;
+}
+th{
+    color: rgb(146, 6, 18);
+    padding-top: 20px;
+    padding-left: 60px;
+    font-weight: bolder;
+}
+td{
+    padding-left: 70px;
+}
+
+.skill-container{
+    color: rgba(131, 4, 4, 0.938);
+    padding-top: 20px;
+    padding-left: 60px;
+    font-weight: bolder;
+}
